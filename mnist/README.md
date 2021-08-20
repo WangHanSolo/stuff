@@ -1,0 +1,1 @@
+Simple classifier through the mnist dataset 
