@@ -1,6 +1,5 @@
-float64 x     
-float64 y
-float64 width
-float64 height
-string label
+int32 x     
+int32 y
+int32 w
+int32 h
 float64 confidence
